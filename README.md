@@ -5,6 +5,8 @@ Branches will be associated with specific lessons and concepts for my kids to le
 
 ## Lessons
 
-1. HTML and In-Line CSS
-2. HTML and File based CSS
-3. Intro to JS
+1. HTML Basics
+2. HTML and In-line CSS
+3. Linking pages
+4. HTML and File-based CSS
+5. Intro to JS
